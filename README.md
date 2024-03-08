@@ -83,10 +83,6 @@ Start the Client
 
 ![](https://github.com/chandan2312/chatter/blob/main/screenshots/add%20rem.PNG)
 
-### View Other user Profile
-
-![](https://github.com/chandan2312/chatter/blob/main/screenshots/profile.PNG)
-
 ## Made By
 
 - [@chandan2312](https://github.com/chandan2312)
